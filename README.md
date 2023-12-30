@@ -15,8 +15,11 @@ Ini adalah sebuah project sederhana Python yang dapat melakukan operasi matemati
 - Masukkan operator matematika (+, *, /)
 - Program akan menampilkan hasil operasi antara dua bilangan tersebut.
 - Contoh:
+  
 Input 1: 2
+
 Input 2: 4 
+
 Operator: *
 
 2 * 4 = 8
